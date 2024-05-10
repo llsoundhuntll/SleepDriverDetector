@@ -1,0 +1,22 @@
+LEER IMPORTANTE (Deprecado)
+Para que funcione debe tener instalado la versión del Python 3.8.10  de 64bit
+
+librerías instaladas VLC  ,  cv2 ,numpy
+
+en el programa detección.py debe cambiar la ruta con la de la maquina 
+eyeLeft = cv2.CascadeClassifier('/Users/Pc-Willi/Desktop/programa_despierto_dormido/haarcascade_lefteye_2splits.xml')
+eyeRight = cv2.CascadeClassifier('/Users/Pc-Willi/Desktop/programa_despierto_dormido/haarcascade_righteye_2splits.xml')
+
+DE AHI EJECUTAR EL PROGRAMA detección.py
+-------------------------------------------------------------------
+
+LEER IMPORTANTE
+//Actualizado por Patricio Ortega B|
+//8vo
+Para que funcione debe tener instalado la versión del Python 3.8.10 o posterior.
+
+librerías instaladas VLC, cv2, numpy, tensorflow, tqdm
+verificar tener instalado VLC.MediaPlayer y establecer la ruta.
+
+Ejectuar el programa. :)
+
